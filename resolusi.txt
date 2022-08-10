@@ -3,4 +3,4 @@
 - belajar javascript
 - belajar reactjs/ react hooks
 - membuat web sederhana
-- dewwendjfsdfsfv
+- membuat app sederhana
