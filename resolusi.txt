@@ -1,0 +1,3 @@
+- belajar web min 3x seminggu
+- 1bln bisa paham git dan github
+- belajar javascript
